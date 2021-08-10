@@ -1,6 +1,17 @@
 package org.emp;
 
 public class Sample extends Employee{
+	private void list() {
+System.out.println("list");
+	}
+	private void hit() {
+		System.out.println("hit");
+	}
+	
+	
+	
+	
+	
 	public static void main(String[] args) {
 		
 	Sample s = new Sample();
