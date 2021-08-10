@@ -5,7 +5,10 @@ public class Sample extends Employee{
 System.out.println("list");
 	}
 	private void hit() {
-		System.out.println("hit");
+		System.out.println("hit");}
+	
+	private void type() {
+System.out.println("type");
 	}
 	
 	
